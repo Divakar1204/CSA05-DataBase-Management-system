@@ -51,4 +51,21 @@
 ![211870272-de109a5e-83c0-43cd-9218-aaf1efe1e1ac](https://user-images.githubusercontent.com/113408359/212085537-67de2f74-4101-463f-8703-420e3ebff4ec.png)
 ## Experiment 20
 ![211870889-12b783d5-ca7e-4db4-aeaa-795cbe28ff94](https://user-images.githubusercontent.com/113408359/212085641-8d925a07-f4da-49fd-8186-399eac1a19a6.png)
+## Experiment 21
+![194585408-cce3ef6e-9fb5-4b0f-9a58-fb1a3ee22b05](https://user-images.githubusercontent.com/113408359/212088391-078400a0-2562-4c09-b466-e6b87c439ebf.png)
+![194585447-a8446cae-a91b-4384-afa9-e856bbbb70d6](https://user-images.githubusercontent.com/113408359/212088454-051e6a80-3de8-4e73-bb9c-b85520793eb1.png)
+![194585516-9bc5df52-84ba-495f-9c5f-2d0de7dab2a4](https://user-images.githubusercontent.com/113408359/212088485-7cd7a988-ad2b-4911-b36f-019312cd7c08.png)
+## Experiment 22
+![194591792-51e9a901-2024-417b-9dbd-049fb38ae7cf](https://user-images.githubusercontent.com/113408359/212088603-e287e8b1-167f-46be-bc8f-b9c766a6b123.png)
+![194591846-612bcb36-7370-4733-b7de-24af84186ce1](https://user-images.githubusercontent.com/113408359/212088651-bd99de82-7161-4b1e-8e23-19ed4fe85b54.png)
+## Experiment 23
+![194589022-3311a0bb-ddc1-4725-9501-f8d077abe4ae](https://user-images.githubusercontent.com/113408359/212088715-c633c799-2266-4454-abc7-f5cd15d68053.jpg)
+![194588911-b155d016-74da-4aba-9c5f-3230d1066b0c](https://user-images.githubusercontent.com/113408359/212088754-f66b6473-6760-4a60-afbb-32795ac18284.jpg)
+## Experiment 24
+![194588715-a41db99c-9683-41e1-b723-8d9df640abd2](https://user-images.githubusercontent.com/113408359/212088834-7f1fb34a-a13f-4334-b553-8639adf0a1a0.jpg)
+![194588840-5136c4d9-34c4-4316-8bc7-5afc46462d58](https://user-images.githubusercontent.com/113408359/212088889-1b322704-4eb3-4902-875b-8a8b6b75d951.jpg)
+## Experiment 25
+![194590523-067313a5-65c8-4a87-9bee-81295df23208](https://user-images.githubusercontent.com/113408359/212088987-8608c1f3-7055-439b-93ff-b63c200f2320.jpg)
+![194590553-3dd7ec98-8082-461b-9ee3-493e1c3ca9f4](https://user-images.githubusercontent.com/113408359/212089055-cf65ed2a-3c9e-4a09-89a5-813b858a32b1.jpg)
+![194590634-6e476bdd-1962-4101-946d-525a46a0b5ba](https://user-images.githubusercontent.com/113408359/212089100-35eeebf2-00c7-4e91-97a7-ea366c4a3234.jpg)
 
